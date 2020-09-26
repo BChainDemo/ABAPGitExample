@@ -6,3 +6,5 @@
 REPORT ZHELLOWORLD.
 
 Write: 'Hello BChainDemo'.
+
+WRITE: 'Checking changes for 2nd commit'.
